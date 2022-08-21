@@ -23,8 +23,11 @@ const Contact = () => {
 
   return (
     <section id='contact'>
-      <h5>Get In Touch</h5>
+      
+      <h5 >Get In Touch</h5>
       <h2>Contact Me</h2>
+      
+      
 
       <div className="container contact__container">
          <div className="contact__options">
@@ -39,14 +42,14 @@ const Contact = () => {
             <GrLinkedin className='contact__option-icon'/>
              <h4>LinkedIn</h4>
              <h5>Anshu Ranjan</h5>
-             <a href='www.linkedin.com' target='_blank'>Send a Message</a>
+             <a href='https://www.linkedin.com/in/anshu-ranjan-1601/' target='_blank'>Send a Message</a>
           </article>
 
           <article className='contact__option'>
             <GrTwitter className='contact__option-icon'/>
              <h4>Twitter</h4>
-             <h5>@anshuperiple</h5>
-             <a href='www.twitter.com' target='_blank'>Send a Message</a>
+             <h5>@Anshuperiple</h5>
+             <a href='https://twitter.com/Anshuperiple' target='_blank'>Send a Message</a>
           </article>
          </div>
          {/*END OF CONTACT OPTIONS*/}

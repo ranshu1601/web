@@ -43,10 +43,9 @@ const About = () => {
 
            </div>
            <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Voluptatibus, est quaerat. Facilis excepturi qui maxime laboriosam 
-            quae mollitia nostrum itaque illo reiciendis. Adipisci officia accusamus
-             doloribus distinctio enim inventore omnis?
+            Hey , I'm Anshu , currently pursuing Bachelor of Engineering in Computers (2024 Batch).
+            Proficient in processing, manipulating and interpreting various data sources and working as part of
+            a team to maintain and optimise a wide range of databases, regular reports.
            </p>
 
            <a href='#contact' className='btn btn-primary'>Let's Talk</a>
