@@ -20,6 +20,10 @@ header {
     justify-content: center;
 }
 
+.CTA {
+    margin-top: 10px;
+    background-color: black;
+}
 
 /* ########### Header SOCIALS ##############*/
 
