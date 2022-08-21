@@ -25,6 +25,11 @@ header {
     background-color: black;
 }
 
+.CTA .btn:last-child{
+    margin-left: 10px;
+}
+
+
 /* ########### Header SOCIALS ##############*/
 
 .header__socials {
